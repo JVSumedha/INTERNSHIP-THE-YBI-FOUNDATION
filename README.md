@@ -1,5 +1,8 @@
 # Financial Market Sentiment Analysis
 INTERNSHIP COMPANY - THE YBI FOUNDATION
+
+I worked as Data Science Intern in YBI Foundation (July-August 2024). During my internship, I strengthened my skills in Machine Learrning,Predictive Analysis and Deep learning.
+
 This project analyzes financial news headlines to predict market sentiment (Positive, Negative, or Neutral) using Natural Language Processing (NLP) and Machine Learning. The goal is to automate sentiment classification and provide insights into market trends.
 
 I.Project Overview - 
