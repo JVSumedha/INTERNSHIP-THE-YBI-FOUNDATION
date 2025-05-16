@@ -13,8 +13,8 @@ Evaluation Metrics: Accuracy, Classification Report, Confusion Matrix.
 
 II.Key Features : 
 ✔ Text preprocessing (tokenization, punctuation removal, vectorization).
-✔ Sentiment classification using machine learning models.
-✔ Performance comparison between Naive Bayes & Random Forest.
+✔ Sentiment classification using machine learning model.
+✔ Performance of the Random Forest.
 ✔ Visualization of sentiment distribution.
 
 III.Results & Insights : 
