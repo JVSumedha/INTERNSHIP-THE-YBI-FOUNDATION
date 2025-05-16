@@ -13,12 +13,12 @@ Evaluation Metrics: Accuracy, Classification Report, Confusion Matrix.
 
 II.Key Features : 
 ✔ Text preprocessing (tokenization, punctuation removal, vectorization).
-✔ Sentiment classification using machine learning model.
-✔ Performance of the Random Forest.
+✔ Sentiment classification using machine learning models.
+✔ Performance of the Naive Bias and Random Forest.
 ✔ Visualization of sentiment distribution.
 
 III.Results & Insights : 
-✅ Random Forest with moderate accuracy.
+✅ Navie Bias outperformed Random Forest with improved accuracy.
 ✅ Successfully automated financial sentiment classification.
 ✅ Potential for trend analysis in financial markets.
 
