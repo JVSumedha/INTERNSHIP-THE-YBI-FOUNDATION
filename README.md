@@ -18,7 +18,7 @@ II.Key Features :
 ✔ Visualization of sentiment distribution.
 
 III.Results & Insights : 
-✅ Random Forest outperformed Naive Bayes with higher accuracy.
+✅ Random Forest with moderate accuracy.
 ✅ Successfully automated financial sentiment classification.
 ✅ Potential for trend analysis in financial markets.
 
